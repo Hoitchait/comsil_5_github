@@ -9,7 +9,7 @@ void prnMenu(){
 	cout<<"원하시는 메뉴를 골라주세요: ";
 }
 
-int main(){
+int main(){//main
 	    int mode, selectNumber, tmpItem;
 		LinkedList<int> *p;
 		bool flag = false;
